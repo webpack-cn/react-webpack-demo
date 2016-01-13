@@ -1,4 +1,4 @@
-# react-basic
+# webpack react-basic
 
 ## How to run
 
